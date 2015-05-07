@@ -1,0 +1,2 @@
+START=yes
+CONFIG_FILE=/etc/cassandra-remote-control/config.ini
